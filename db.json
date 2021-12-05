@@ -1,8 +1,8 @@
 {
   "0xBab6C8b0E9744f4E9369E3f3889904ac89E338d2":{
-    "hasKYC":true
+    "hasKYC":"IDV"
   },
   "address2":{
-    "hasKYC":false
+    "hasKYC":"EDP"
   }
 }
